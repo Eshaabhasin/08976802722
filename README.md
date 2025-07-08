@@ -1,6 +1,6 @@
 # URL Shortener 🔗
 
-Turn long URLs into short, shareable links. Built with React and runs entirely in your browser - no server required!
+Turn long URLs into short, shareable links. Built with React and runs entirely in your browser .
 
 ## What It Does
 
@@ -50,3 +50,5 @@ Then open http://localhost:3000 and start shortening!
 - ✅ Mobile-friendly interface
 - ✅ Collision-resistant shortcodes
 - ✅ Built-in analytics
+
+![image](https://github.com/user-attachments/assets/c946f169-a042-4d72-a9b1-f5a8adff1620)
