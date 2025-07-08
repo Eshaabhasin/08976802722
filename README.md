@@ -52,3 +52,7 @@ Then open http://localhost:3000 and start shortening!
 - ✅ Built-in analytics
 
 ![image](https://github.com/user-attachments/assets/c946f169-a042-4d72-a9b1-f5a8adff1620)
+![image](https://github.com/user-attachments/assets/70921f05-4e70-430a-9678-0cff72953b1d)
+
+
+
